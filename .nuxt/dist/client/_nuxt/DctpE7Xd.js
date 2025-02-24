@@ -1,0 +1,1 @@
+import{_ as t,t as o,v as r,x as s,M as _,z as a}from"./CoRqUvaP.js";const d={};function l(n,e){return r(),o("div",null," footer ")}const f=t(d,[["render",l]]),u={};function i(n,e){const c=f;return r(),o("div",null,[e[0]||(e[0]=s("header",null,"header",-1)),_(n.$slots,"default"),a(c)])}const p=t(u,[["render",i]]);export{p as default};
