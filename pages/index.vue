@@ -33,7 +33,7 @@ function getBlogInfo() {
   return $fetch('https://dev.usemock.com/6763cb666c597482904f2c38/api/console/blog/portal/ids', {
     method: 'GET'
   }).then(res => {
-    console.log(res)
+    // console.log(res)
 
 
   })
