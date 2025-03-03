@@ -1,0 +1,1 @@
+import{_ as o,t as l,v as n,x as t,M as s}from"./CJqpYTPB.js";const a={};function d(r,e){return n(),l("div",null,[e[0]||(e[0]=t("header",null,"头部",-1)),s(r.$slots,"default"),e[1]||(e[1]=t("footer",null,"尾部",-1))])}const u=o(a,[["render",d]]);export{u as default};
